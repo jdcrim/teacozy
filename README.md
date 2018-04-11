@@ -1,0 +1,2 @@
+# teacozy
+For Codecademy Application
